@@ -517,6 +517,13 @@ header .head-top .top-menu ul li.active .btn {
   margin: 0 0 15px 0;
 }
 
+.resume-items .resume-item .company-name {
+  font-weight: 400;
+  color: #141414;
+  margin: 0 0 15px 0;
+  font-style: italic;
+}
+
 .resume-items .resume-item p {
   margin: 0;
 }
